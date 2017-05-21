@@ -25,12 +25,12 @@ you can download last version from:<br/>
   https://github.com/ghaemshop/ghaemShopSmSim<br/>
 <br/>
 <br/>
-For information on installing libraries, see: http://www.arduino.cc/en/Guide/Libraries
-
-ghaemShopSmSim protocol:
-
+For information on installing libraries, see: http://www.arduino.cc/en/Guide/Libraries<br/>
+<br/>
+ghaemShopSmSim protocol:<br/>
+ghaemShopSmSim v.3.1.0 protocol:<br/>
 /*******************************************************************************
-	ghaemShopSmSim v.3.1.0 protocol
+	
 	
 	SetPassword()
 		
