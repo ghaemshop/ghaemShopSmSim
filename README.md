@@ -21,7 +21,7 @@ http://GhaemComputer.ir<br/>
   * Salavat Hadye be Agha Emam Zaman(GHAEM AALE MOHAMMAD)<br/>
 <br/>
 you can download last version from:<br/>
-  http://www.ghemShop.ir/opensource/arduino/ghaemShopSmSim<br/>
+  http://www.ghaemShop.ir/opensource/arduino/ghaemShopSmSim<br/>
   https://github.com/ghaemshop/ghaemShopSmSim<br/>
 <br/>
 <br/>
